@@ -1,3 +1,2 @@
-
-sample
-  property: testvalue
+application:
+    name: democonfigdefault
