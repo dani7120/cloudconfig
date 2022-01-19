@@ -1,2 +1,3 @@
-application:
-    name: democonfig
+spring:
+  profiles:
+    active: dev
