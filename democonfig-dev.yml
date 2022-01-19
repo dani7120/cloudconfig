@@ -1,3 +1,3 @@
-spring:
-  profiles:
-    active: dev
+spring1:
+  profiles1:
+    active1: dev
