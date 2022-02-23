@@ -1,4 +1,4 @@
-token-secret: dsfg223j5h2l3k45jkb0009
+token-secret: '{cipher}8b4b97e024b2ee163dccbe179be80967569120cd4c0cba2b25ff5e72d92b6e54f283ddb8b0f258b01d8e5e1891edf077'
 gateway:
   api-address: 10.0.0.3
 spring:
